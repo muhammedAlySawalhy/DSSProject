@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muhal\\source\\repos\\DSS-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7462ED-F0CC-E5BF-08A3-83EFF11E60E4}|DSS-Project\\DSS-Project.dtproj|C:\\Users\\muhal\\source\\repos\\DSS-Project\\DSS-Project\\csv.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{6E7462ED-F0CC-E5BF-08A3-83EFF11E60E4}|DSS-Project\\DSS-Project.dtproj|solutionrelative:DSS-Project\\csv.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7462ED-F0CC-E5BF-08A3-83EFF11E60E4}|DSS-Project\\DSS-Project.dtproj|C:\\Users\\muhal\\source\\repos\\DSS-Project\\DSS-Project\\Excel.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{6E7462ED-F0CC-E5BF-08A3-83EFF11E60E4}|DSS-Project\\DSS-Project.dtproj|solutionrelative:DSS-Project\\Excel.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7462ED-F0CC-E5BF-08A3-83EFF11E60E4}|DSS-Project\\DSS-Project.dtproj|C:\\Users\\muhal\\source\\repos\\DSS-Project\\DSS-Project\\flat.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{6E7462ED-F0CC-E5BF-08A3-83EFF11E60E4}|DSS-Project\\DSS-Project.dtproj|solutionrelative:DSS-Project\\flat.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7462ED-F0CC-E5BF-08A3-83EFF11E60E4}|DSS-Project\\DSS-Project.dtproj|C:\\Users\\muhal\\source\\repos\\DSS-Project\\DSS-Project\\Untitled||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E7462ED-F0CC-E5BF-08A3-83EFF11E60E4}|DSS-Project\\DSS-Project.dtproj|solutionrelative:DSS-Project\\Untitled||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "csv.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\muhal\\source\\repos\\DSS-Project\\DSS-Project\\csv.dtsx",
+              "RelativeDocumentMoniker": "DSS-Project\\csv.dtsx",
+              "ToolTip": "C:\\Users\\muhal\\source\\repos\\DSS-Project\\DSS-Project\\csv.dtsx [Design]*",
+              "RelativeToolTip": "DSS-Project\\csv.dtsx [Design]*",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-09T11:40:23.192Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "flat.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\muhal\\source\\repos\\DSS-Project\\DSS-Project\\flat.dtsx",
+              "RelativeDocumentMoniker": "DSS-Project\\flat.dtsx",
+              "ToolTip": "C:\\Users\\muhal\\source\\repos\\DSS-Project\\DSS-Project\\flat.dtsx [Design]*",
+              "RelativeToolTip": "DSS-Project\\flat.dtsx [Design]*",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-09T11:40:10.549Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Untitled",
+              "DocumentMoniker": "C:\\Users\\muhal\\source\\repos\\DSS-Project\\DSS-Project\\Untitled",
+              "RelativeDocumentMoniker": "DSS-Project\\Untitled",
+              "ToolTip": "C:\\Users\\muhal\\source\\repos\\DSS-Project\\DSS-Project\\Untitled",
+              "RelativeToolTip": "DSS-Project\\Untitled",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-09T11:37:34.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Excel.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\muhal\\source\\repos\\DSS-Project\\DSS-Project\\Excel.dtsx",
+              "RelativeDocumentMoniker": "DSS-Project\\Excel.dtsx",
+              "ToolTip": "C:\\Users\\muhal\\source\\repos\\DSS-Project\\DSS-Project\\Excel.dtsx [Design]",
+              "RelativeToolTip": "DSS-Project\\Excel.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-09T11:32:11.511Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
